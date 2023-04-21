@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Card-Api-Search/static/css/main.fe31eb28.css",
+    "main.js": "/Card-Api-Search/static/js/main.e798c323.js",
+    "static/js/787.c1112931.chunk.js": "/Card-Api-Search/static/js/787.c1112931.chunk.js",
+    "index.html": "/Card-Api-Search/index.html",
+    "main.fe31eb28.css.map": "/Card-Api-Search/static/css/main.fe31eb28.css.map",
+    "main.e798c323.js.map": "/Card-Api-Search/static/js/main.e798c323.js.map",
+    "787.c1112931.chunk.js.map": "/Card-Api-Search/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe31eb28.css",
+    "static/js/main.e798c323.js"
+  ]
+}
